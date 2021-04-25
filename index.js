@@ -33,8 +33,8 @@ function yourAnimal() {
 }
 
 function add2(n) {
-    int two = 2;
-  return n + two;
+  //  int two = 2;
+  return n + 2;
 
   // Feel free to move things around!
 
